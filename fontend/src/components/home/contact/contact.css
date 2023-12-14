@@ -1,0 +1,42 @@
+#contact_card_title {
+  font-weight: 450;
+  font-size: 1.7em;
+  text-align: center;
+  margin-top: 2%;
+  margin-left: 9%;
+  margin-bottom: 0.5%;
+  letter-spacing: 1px;
+  color: #fff;
+}
+
+.container {
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+#contact_card {
+  margin-left: 6%;
+  margin-right: 6%;
+  margin-bottom: 4%;
+  margin-top: 3%;
+  align-items: flex-start;
+  border-radius: 5px;
+}
+
+#contact_details {
+  margin-top: 2.5%;
+  margin-left: 3%;
+  margin-right: 5%;
+  font-weight: 500;
+  font-size: 15px;
+  text-align: left;
+}
+
+#websites_details {
+  margin-top: 2.5%;
+  margin-left: 3%;
+  margin-right: 5%;
+  margin-bottom: 8.5%;
+  font-weight: 500;
+  font-size: 15px;
+  text-align: left;
+}

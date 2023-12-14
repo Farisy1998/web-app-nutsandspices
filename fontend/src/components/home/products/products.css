@@ -1,0 +1,48 @@
+
+#card_title {
+  font-weight: 450;
+  font-size: 1.7em;
+  text-align: center;
+  margin-top: 2%;
+  margin-bottom: 0.5%;
+  letter-spacing: 1px;
+  color: #fff;
+}
+
+#card_categories {
+  margin-left: 6%;
+  margin-right: 6%;
+  margin-bottom: 3%;
+  margin-top: 2%;
+  border-radius: 5px;
+}
+
+.pagination {
+  justify-content: center;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+
+
+/* ******************************************* */
+
+
+.card {
+  margin-top: 5%;
+}
+
+#card_products {
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-bottom: 2%;
+  margin-top: 2%;
+  border-radius: 5px;
+}
+
+#product_name {
+  cursor: pointer;
+}
+#product_name span:hover {
+  color: blue;
+}

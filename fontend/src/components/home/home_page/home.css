@@ -1,0 +1,33 @@
+.home_page {
+  background-color: wheat;
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  margin-top: 1%;
+  margin-bottom: -3%;
+}
+.navbar .logo {
+  margin-left: 10%;
+  font-size: 2.5em;
+  font-weight: 750;
+  letter-spacing: 1px;
+}
+.navbar ul.nav {
+  margin-right: 10%;
+}
+
+.navbar ul.nav li .button {
+  border-radius: 4px;
+  margin-left: 20px;
+}
+
+.navbar ul.nav li .button {
+  font-size: 1.3em;
+  font-weight: 500;
+}
+
+.navbar ul.nav li.nav-item:hover .button span {
+  color: #fff;
+}
